@@ -1,0 +1,2 @@
+* Implement the full spec described at http://goessner.net/articles/JsonPath/index.html
+* Try using Nimble Parsec to make it faster (and probably easier) https://github.com/plataformatec/nimble_parsec
